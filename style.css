@@ -70,6 +70,10 @@ main {
     width: auto;
 }
 
+#titulo-Scooter{
+    margin-bottom: 20px;
+}
+
 #background-right {
     background-color: #4DBCE9;
     border-radius: 5px;
@@ -94,6 +98,8 @@ h3 {
     margin: 5px 130px;
     border-radius: 10px;
     padding: 5px;
+    width: 192px;
+
 }
 
 h5 {
@@ -122,4 +128,12 @@ button {
 ul{
     display: flex;
     overflow: hidden;
+}
+
+li{
+    width: 450px;
+}
+
+#Voltz-EV2{
+    margin-left: 75px;
 }
