@@ -1,0 +1,17 @@
+HTML
+
+
+
+
+
+
+CSS
+
+
+
+
+
+
+JS - querySelector = identifica o elemento;
+     addEventListener diz o que é para fazer;
+     devdocs.io

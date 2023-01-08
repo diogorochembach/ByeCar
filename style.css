@@ -1,0 +1,125 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    background-color: #303030;
+    align-items: center;
+    display: flex;
+}
+
+#logodnc {
+    width: 120px;
+}
+
+#ByeCar {
+    font-family: 'Raleway', sem serifa;
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 30px
+}
+
+#text-assinatura {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #265E70;
+    margin-top: 28px;
+    width: 645px;
+}
+
+
+
+#ajustando-capacete {
+    width: 641px;
+}
+
+#titulo-right {
+    margin-top: 28px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 44px;
+    align-items: center;
+    text-align: center;
+    color: #265E70;
+}
+
+#titulo-right b {
+    color: #4DBCE9;
+}
+
+main {
+    display: flex;
+}
+
+#left {
+    width: 50%;
+}
+
+#right {
+    display: inline-block;
+    width: auto;
+}
+
+#background-right {
+    background-color: #4DBCE9;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    width: 450px;
+    margin-left: 40px;
+}
+
+#background-right p {
+    font-weight: 400;
+    font-size: 23px;
+    color: #FFFFFF;
+    margin-bottom: 3px;
+}
+
+h3 {
+    font-weight: 700;
+    background-color: white;
+    color: #265E70;
+    margin: 5px 130px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+button {
+    font-family: inter;
+    width: 241px;
+    height: 55px;
+    margin-top: 25px;
+    background: #4DBCE9;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    font-size: 19px;
+    margin-left: 180px;
+    letter-spacing: 1px;
+}
+ul{
+    display: flex;
+    overflow: hidden;
+}
